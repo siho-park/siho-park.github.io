@@ -18,8 +18,8 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "/index.md"}
   - {title: "CV", url: "/cv/SihoPark.pdf" }
-  - {title: "Research",  file: "/pages/research.md"}
-  - {title: "Resources", file: "/pages/resources.md"}
+  - {title: "Research",  url: "https://siho-park.github.io/pages/research/"}
+  - {title: "Resources", url: "https://siho-park.github.io/pages/resources/"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
