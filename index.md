@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Bio"
+---
+
+ <img src="/images/profile.jpg" alt="drawing" width="300" style="float: left; margin-right: 1em" >
+
+  I am a PhD student in Economics at the University of Illinois Urbana-Champaign. My fields of interest are health and development economics.
+
+  My current research on health screening examines its impact on health care utilizations and health behaviors.
