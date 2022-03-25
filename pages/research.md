@@ -7,7 +7,7 @@ title: "Research"
 ---
 **Effect of health screening on health care utilizations and health behaviors: Evidence from Korean screening policy**
 
-[**Manuscript**]("https://siho-park.github.io/papers/Health_screening_and_behavior.pdf")
+[**Manuscript**]({% link /papers/Health_screening_and_behavior.pdf %})
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
