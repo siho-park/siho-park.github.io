@@ -5,7 +5,7 @@ title: "Research"
 
 # Working papers
 ---
-**Effect of health screening on health care utilizations and health behaviors: Evidence from Korean screening policy**
+**Effect of health screening on health care utilization and health behaviors: Evidence from Korean screening policy**
 
 [**Manuscript**]({% link /papers/Health_screening_and_behavior.pdf %})
 
@@ -15,4 +15,4 @@ title: "Research"
 
 # Work in progress
 ---
-**Education and its intergenerational impact on health behaviors: Evidence from mass school construction in Indonesia**
+**Intergenerational impact of education on health behaviors: Evidence from mass school construction in Indonesia**
