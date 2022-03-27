@@ -33,3 +33,6 @@ comments:
 
 plugins:
  - jekyll-feed
+
+ # Google Analytics
+google_analytics: G-P73MCKCWB7
