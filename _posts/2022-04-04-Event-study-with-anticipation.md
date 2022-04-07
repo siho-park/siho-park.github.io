@@ -31,9 +31,9 @@ Outcome variable is a sum of following terms. Number of iterations = 1,000.
 
 1. OLS event study model
 
-$$ y_{st} = \alpha_{s} + \delta_{t} + \sum_{k = -5}^{5} \beta_{k} D_{st}^{k} + \varepsilon_{st} $$
+    $$ y_{st} = \alpha_{s} + \delta_{t} + \sum_{k = -5}^{5} \beta_{k} D_{st}^{k} + \varepsilon_{st} $$
 
-...Reference category is period -6
+    Reference category is period -6
 
 2. Callaway-Sant'Anna event study with first treatment date = 0
 3. Callaway-Sant'Anna event study with first treatment date = -1
@@ -46,28 +46,28 @@ The [Github page](https://github.com/siho-park/event-study-simulation) contain R
 
 #### 1. OLS produces unbiased estimates.
 
-<img src="/images/event_ols.png"  style="float:left; width:300px; height:200px;">
+<img src="/images/event_ols.png"  style="float:left; width:900px; height:500px;">
 
 
 There is only one treated unit and OLS does not suffer from heterogeneous treatment effects, differential treatment timing, etc.
 
 #### 2. CS estimator produces biased estimates when first treatment date = 0.
 
-<img src="/images/event_cs.png"  style="float:left; width:1000px; height:600px;">
+<img src="/images/event_cs.png"  style="float:left; width:900px; height:500px;">
 
 
 This happens from period 0 and persists in the following periods. This shows that failure to adjust first treatment date in the presence of anticipation will generate biased estimates in the following periods.
 
 #### 3. CS estimator produces unbiased estimates when first treatment date = -1.
 
-<img src="/images/event_cs1.png"  style="float:left; width:1000px; height:600px;">
+<img src="/images/event_cs1.png"  style="float:left; width:900px; height:500px;">
 
 
 Adjusting the first treatment date to be the date when anticipation starts to kick in can remedy the problem.
 
 #### 4. CS estimator still produces unbiased estimates when first treatment date = -2.
 
-<img src="/images/event_cs2.png"  style="float:left; width:1000px; height:600px;">
+<img src="/images/event_cs2.png"  style="float:left; width:900px; height:500px;">
 
 
 This shows when we do not have exact knowledge of when the anticipation can start to affect our outcome, it is better to be conservative and choose earlier date as first treatment date. It will still generate unbiased estimates. Another way to look at it is as a robustness check. When we move the first treatment date to one period before, the event study figure has to be robust. If this brings about a large change in event study plots, it means there is an anticipation effect that we did not expect. In such situation, CS estimator produces biased estimates and we need to check underneath what is really going on.
