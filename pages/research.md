@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Research"
+mathjax: true
 ---
 
 # Working papers
 ---
 **Effect of health screening on health care utilization and health behaviors: Evidence from Korean screening policy**
 
-[**Manuscript**]({% link /papers/Health_screening_and_behavior.pdf %})  <code>&#124;</code>  [**Slides**]({% link /slides/screening.pdf %})
+[**Manuscript**]({% link /papers/Health_screening_and_behavior.pdf %})  $\|$  [**Slides**]({% link /slides/screening.pdf %})
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
