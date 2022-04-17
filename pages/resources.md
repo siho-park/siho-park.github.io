@@ -17,9 +17,9 @@ title: "Resources"
 
 [**Applied Empirical Methods by Paul Goldsmith-Pinkham**](https://github.com/paulgp/applied-methods-phd)
 
-[**Recent developments in DID collections**](https://asjadnaqvi.github.io/DiD/)
+[**Recent developments in DID collections by Asjad Naqvi**](https://asjadnaqvi.github.io/DiD/)
 
-[**Callaway and Sant'Anna**](https://bcallaway11.github.io/did/index.html)
+[**Callaway and Sant'Anna estimator**](https://bcallaway11.github.io/did/index.html)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
