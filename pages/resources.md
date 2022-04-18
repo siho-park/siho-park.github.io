@@ -29,6 +29,12 @@ title: "Resources"
 ---
 [**Stata coding guide by Julian Reif**](https://julianreif.com/guide/)
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+# Learning R
+---
 [**R for data science**](https://r4ds.had.co.nz/index.html)
 
 [**Advanced R**](http://adv-r.had.co.nz/)
