@@ -22,6 +22,6 @@ with Jaysa Rafi
 
 <p>&nbsp;</p>
 
-**When my sister was sick: Health shock and spillover in family**
+**Health shock and spillover in family: When my sister was sick**
 
 with Yoonhwan Kim
