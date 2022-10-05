@@ -6,9 +6,9 @@ mathjax: true
 
 # Working papers
 ---
-**Effect of health screening on health care utilization and health behaviors: Evidence from Korean screening policy**
+**Biannual health screening: selection and effect**
 
-[**Manuscript**]({% link /papers/Health_screening_and_behavior.pdf %})  &#x7c;  [**Slides**]({% link /slides/screening.pdf %})
+[**Manuscript**]({% link /papers/Health_screening_and_behavior.pdf %})  &#x7c;  [**Slides**]({% link /slides/Biannual_health_screening.pdf %})
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
