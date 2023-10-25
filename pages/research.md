@@ -18,11 +18,8 @@ mathjax: true
 # Other publications
 ---
 **Geographic differences in the mortality burden of the Covid-19 pandemic**
-
 with Julian Reif and Hanke Heun-Johnson
-
-<font color="red">*IGPA Policy Spotlight*</font>, 27 September 2023
-
+<p style= "color: rgb(116,22,2)"><strong>IGPA Policy Spotlight</strong></p>, 27 September 2023
 [**Article**]({% link /papers/covid_lyl.pdf %})
 
 <p>&nbsp;</p>
