@@ -21,7 +21,7 @@ mathjax: true
 
 with Julian Reif and Hanke Heun-Johnson
 
-<p style= "color: rgb(116,22,2)"><i>IGPA Policy Spotlight</i></p>, 27 September 2023
+<p style= "color: rgb(116,22,2)"> *IGPA Policy Spotlight* </p>, 27 September 2023
 
 [**Article**]({% link /papers/covid_lyl.pdf %})
 
