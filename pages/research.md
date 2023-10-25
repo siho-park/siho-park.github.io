@@ -6,9 +6,24 @@ mathjax: true
 
 # Working papers
 ---
-**Biannual health screening: selection and effect**
+**What happens when health screenings are subsidized? Evidence from biennial subsidies in South Korea**
 
-[**Manuscript**]({% link /papers/Health_screening_and_behavior.pdf %})  &#x7c;  [**Slides**]({% link /slides/Biannual_health_screening.pdf %})
+[**Manuscript**]({% link /papers/Biannual_health_screening.pdf %})  &#x7c;  [**Slides**]({% link /slides/Biannual_health_screening.pdf %})
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+# Other publications
+---
+**Geographic differences in the mortality burden of the Covid-19 pandemic**
+
+with Julian Reif and Hanke Heun-Johnson
+
+<font color="red">*IGPA Policy Spotlight*</font>, 27 September 2023
+
+[**Article**]({% link /papers/covid_lyl.pdf %})
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -21,7 +36,3 @@ mathjax: true
 with Jaysa Rafi
 
 <p>&nbsp;</p>
-
-**Health shock and spillover in family: When my sister was sick**
-
-with Yoonhwan Kim
