@@ -6,7 +6,7 @@ mathjax: true
 
 # Working papers
 ---
-**What happens when health screenings are subsidized? Evidence from biennial subsidies in South Korea**
+**Health screening and selection: Evidence from biennial subsidies in South Korea**
 
 [**Manuscript**]({% link /papers/Biannual_health_screening.pdf %})  &#x7c;  [**Slides**]({% link /slides/Biannual_health_screening.pdf %})
 
