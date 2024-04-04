@@ -19,7 +19,7 @@ mathjax: true
 ---
 **Geographic differences in the mortality burden of the Covid-19 pandemic**  
 
-with [**Julian Reif**](https://julianreif.com/) and [**Hanke Heun-Johnson**](https://www.healthpolicy.usc.edu/staff/hanke-heun-johnson-phd/)
+with Julian Reif and Hanke Heun-Johnson
 
 <span style = "color: rgb(151, 27, 0)"><i>IGPA Policy Spotlight</i></span>, 27 September 2023
 
