@@ -46,7 +46,7 @@ title: ""
 <p>&nbsp;</p>
 
 # Presentation
-
+---
 [**How to Give an Applied Micro Talk**](https://scholar.harvard.edu/files/shapiro/files/applied_micro_slides.pdf) (Jesse M. Shapiro)
 
 <p>&nbsp;</p>
@@ -54,5 +54,5 @@ title: ""
 <p>&nbsp;</p>
 
 # Writing papers
-
+---
 [**Four steps to an Applied Micro Paper**](https://scholar.harvard.edu/files/shapiro/files/foursteps.pdf) (Jesse M. Shapiro)
