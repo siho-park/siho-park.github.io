@@ -26,6 +26,17 @@ with Julian Reif and Hanke Heun-Johnson
 [**Article**]({% link /papers/covid_lyl.pdf %})
 
 <p>&nbsp;</p>
+
+**Post-Pandemic Employment Recovery: Case Study of Tricycle Drivers in Metro Manila**  
+
+with Takshi Yamano, Yasuyuki Sawada, Shigehiro Shinozaki, Hyuncheol Bryant Kim and Syngjoo Choi
+
+<span style = "color: rgb(151, 27, 0)"><i>Informal Services in Asian Cities: Lessons for Urban Planning and Management from the Covid-19 Pandemic</i></span>, 27 September 2023
+
+[**Article**]({% link /papers/ph_tricycle_report.pdf %})
+
+
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -34,5 +45,17 @@ with Julian Reif and Hanke Heun-Johnson
 **Intergenerational impact of education on health behaviors: Evidence from mass school construction in Indonesia**
 
 with Jaysa Rafi
+
+<p>&nbsp;</p>
+
+**Spousal spillover in health screening: Evidence from South Korea**
+
+with Hyuncheol Bryant Kim and Jaehyun Jung
+
+<p>&nbsp;</p>
+
+**Misinformation Belief, Health Behavior, and Labor Supply during the COVID-19 Pandemic: Evidence from Tricycle Drivers in Philippines**
+
+with Hyuncheol Bryant Kim, Syngjoo Choi, Yasuyuki Sawada and Takashi Yamano
 
 <p>&nbsp;</p>
