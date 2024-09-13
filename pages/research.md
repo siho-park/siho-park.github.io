@@ -21,7 +21,7 @@ mathjax: true
 
 with Julian Reif and Hanke Heun-Johnson
 
-<span style = "color: rgb(151, 27, 0)"><i>IGPA Policy Spotlight</i></span>, 27 September 2023
+<span style = "color: rgb(151, 27, 0)"><i>IGPA Policy Spotlight</i></span>, 2023
 
 [**Article**]({% link /papers/covid_lyl.pdf %})
 
@@ -31,7 +31,7 @@ with Julian Reif and Hanke Heun-Johnson
 
 with Takshi Yamano, Yasuyuki Sawada, Shigehiro Shinozaki, Hyuncheol Bryant Kim and Syngjoo Choi
 
-<span style = "color: rgb(151, 27, 0)"><i>Informal Services in Asian Cities: Lessons for Urban Planning and Management from the Covid-19 Pandemic</i></span>, 27 September 2023
+<span style = "color: rgb(151, 27, 0)"><i>Informal Services in Asian Cities: Lessons for Urban Planning and Management from the Covid-19 Pandemic</i></span>, 2022
 
 [**Article**]({% link /papers/ph_tricycle_report.pdf %})
 
