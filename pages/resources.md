@@ -3,6 +3,14 @@ layout: post
 title: ""
 ---
 
+# Datasets
+---
+[**Health data in Korea**]({% link /slides/Korea_health.pdf %})
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 # Economics
 ---
 [**AEA Continuing Education**](https://www.aeaweb.org/conference/cont-ed)
