@@ -6,7 +6,7 @@ mathjax: true
 
 # Job market paper
 ---
-**Health screening and selection: Evidence from biennial subsidies in South Korea**
+**Health Screening and Selection: Evidence from Biennial Subsidies in South Korea**
 
 Public health screening programs are widely used, but their effectiveness is questioned due to low participation among high-risk individuals who would benefit most from early diagnosis. I study selection into health screenings and their causal effects using quasi-random variation from South Korea’s National Health Screening Program, which subsidizes 90-100% of screening costs every other year at even-numbered ages. Using survey data, I find that subsidy eligibility increases screening completion by 16-19 percentage points (183-295%). Compliers with the subsidies are predominantly from lower socioeconomic backgrounds and are in poorer health than those who always participate regardless of subsidies. Using national health insurance claims data, I find that subsidy eligibility increases both early- and late-stage cancer diagnoses by 17-19%, as well as treatment for conditions including cancer precursors, hypertension, diabetes, high cholesterol, and osteoporosis. These results suggest that public health screenings with subsidies can effectively target high-risk individuals and promote preventive care use.
 
@@ -19,7 +19,7 @@ Public health screening programs are widely used, but their effectiveness is que
 
 # Working papers
 ---
-**Spousal spillover in health screening: Evidence from South Korea**
+**Spousal Spillover in Health Screening: Evidence from South Korea**
 
 with Hyuncheol Bryant Kim and Jaehyun Jung
 
