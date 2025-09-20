@@ -13,9 +13,10 @@ Public health screening programs are widely used, but their impact is often limi
 <figure>
   <img src="/images/cancer_stomach.png" alt="Stomach cancer screening rate in South Korea" width="600">
   <figcaption>Stomach cancer screening rate in South Korea</figcaption>
-  [**Manuscript**]({% link /papers/biennial_paper_original.pdf %})  &#x7c;  [**Slides**]({% link /slides/Biannual_health_screening.pdf %})
-</figure>
 
+  [<a href="/papers/biennial_paper_original.pdf">Manuscript</a>]  
+  [<a href="/slides/Biannual_health_screening.pdf">Slides</a>]
+</figure>
 
 
 <p>&nbsp;</p>
