@@ -4,6 +4,12 @@ title: ""
 mathjax: true
 ---
 
+<style>
+  .coauthor { color: #1a73e8; }
+  .paper { color: #2e7d32; }
+</style>
+
+
 # Job market paper
 ---
 **Health Screening and Selection: Evidence from Biennial Subsidies in South Korea**
@@ -16,8 +22,8 @@ Public health screening programs are widely used, but their impact is often limi
     <figcaption>Fig: Stomach cancer screening rate by age</figcaption>
   </figure>
   <div>
-  <p><a href="/papers/biennial_paper_original.pdf" target="_blank" rel="noopener noreferrer"><b>[Manuscript]</b></a></p>
-  <p><a href="/slides/Biannual_health_screening.pdf" target="_blank" rel="noopener noreferrer"><b>[Slides]</b></a></p>
+  <p><a href="/papers/biennial_paper_original.pdf" target="_blank" rel="noopener noreferrer" class="paper"><b>[Manuscript]</b></a></p>
+  <p><a href="/slides/Biannual_health_screening.pdf" target="_blank" rel="noopener noreferrer" class="paper"><b>[Slides]</b></a></p>
   </div>
 </div>
 
@@ -30,7 +36,11 @@ Public health screening programs are widely used, but their impact is often limi
 ---
 **Spousal Spillover in Health Screening: Evidence from South Korea**
 
-with Hyuncheol Bryant Kim and Jaehyun Jung
+with
+<a href="https://sites.google.com/site/hk2405/" target="_blank" rel="noopener noreferrer" class="coauthor">Hyuncheol Bryant Kim</a>
+and
+<a href="https://sites.google.com/site/jaehyunjungsite/home" target="_blank" rel="noopener noreferrer" class="coauthor">Jaehyun Jung</a>
+
 
 This study investigates spousal spillover in health screenings using South Korea’s National Health Screening Program, which subsidizes 90–100% of screening costs biennially at even-numbered ages. Using spouse’s even age as an instrument, we estimate that a spouse’s screening increases one’s own participation by 7.9 percentage points, 37% of the direct subsidy effect. Evidence points to coordination as a key mechanism, as many couples undergo screening on the same day. We also find contrasting patterns of selection by own subsidy eligibility. Among subsidy-eligible individuals, those with low socioeconomic status (SES) are more likely to respond to their spouse’s screening, while among ineligible individuals, spillovers are concentrated among those with high SES. These results suggest that spousal spillover can be used to increase participation and reduce socioeconomic disparities in preventive care.
 
@@ -47,7 +57,12 @@ This study investigates spousal spillover in health screenings using South Korea
 
 **Misinformation Belief, Health Behavior, and Labor Supply during the COVID-19 Pandemic: Evidence from Tricycle Drivers in Philippines**
 
-with Hyuncheol Bryant Kim, Syngjoo Choi, Yasuyuki Sawada, and Takashi Yamano
+with
+<a href="https://sites.google.com/site/hk2405/" target="_blank" rel="noopener noreferrer" class="coauthor">Hyuncheol Bryant Kim</a>,
+<a href="https://sites.google.com/site/syngjoochoi/" target="_blank" rel="noopener noreferrer" class="coauthor">Syngjoo Choi</a>,
+<a href="https://sites.google.com/site/yasuyukisawadapage/main" target="_blank" rel="noopener noreferrer" class="coauthor">Yasuyuki Sawada</a>,
+and
+<a href="https://blogs.adb.org/author/takashi-yamano" target="_blank" rel="noopener noreferrer" class="coauthor">Takashi Yamano</a>,
 
 This study aims to analyze the behavioral consequences of people's beliefs in conspiracy theories and misinformation surrounding COVID-19 vaccines. We employ unique panel data to examine the relationship of belief in misinformation, vaccination behavior, and labor supply of tricycle drivers in the Philippines. We find that individuals with higher risk preference are more likely to hold misinformed beliefs. These beliefs, in turn, are associated with reductions in vaccination and other preventive health behaviors. We also find that beliefs in misinformation delay workplace recovery.
 
@@ -69,7 +84,10 @@ This study aims to analyze the behavioral consequences of people's beliefs in co
 ---
 **Geographic differences in the mortality burden of the Covid-19 pandemic**  
 
-with Julian Reif and Hanke Heun-Johnson
+with
+<a href="https://julianreif.com/" target="_blank" rel="noopener noreferrer" class="coauthor">Julian Reif</a>
+and
+<a href="https://schaeffer.usc.edu/people/hanke-heun-johnson-phd/" target="_blank" rel="noopener noreferrer" class="coauthor">Hanke Heun-Johnson</a> ,
 
 <span style = "color: rgb(151, 27, 0)"><i>IGPA Policy Spotlight</i></span>, 2023
 
@@ -79,7 +97,14 @@ with Julian Reif and Hanke Heun-Johnson
 
 **Post-Pandemic Employment Recovery: Case Study of Tricycle Drivers in Metro Manila**  
 
-with Takshi Yamano, Yasuyuki Sawada, Shigehiro Shinozaki, Hyuncheol Bryant Kim, and Syngjoo Choi
+with
+<a href="https://blogs.adb.org/author/takashi-yamano" target="_blank" rel="noopener noreferrer" class="coauthor">Takashi Yamano</a>,
+<a href="https://sites.google.com/site/yasuyukisawadapage/main" target="_blank" rel="noopener noreferrer" class="coauthor">Yasuyuki Sawada</a>,
+<a href="https://blogs.adb.org/author/shigehiro-shinozaki" target="_blank" rel="noopener noreferrer" class="coauthor">Shigehiro Shinozaki</a>,
+<a href="https://sites.google.com/site/hk2405/" target="_blank" rel="noopener noreferrer" class="coauthor">Hyuncheol Bryant Kim</a>,
+and
+<a href="https://sites.google.com/site/syngjoochoi/" target="_blank" rel="noopener noreferrer" class="coauthor">Syngjoo Choi</a>
+
 
 <span style = "color: rgb(151, 27, 0)"><i>Informal Services in Asian Cities: Lessons for Urban Planning and Management from the Covid-19 Pandemic</i></span>, 2022
 
@@ -94,7 +119,8 @@ with Takshi Yamano, Yasuyuki Sawada, Shigehiro Shinozaki, Hyuncheol Bryant Kim, 
 ---
 **Intergenerational impact of education on health behaviors: Evidence from mass school construction in Indonesia**
 
-with Jaysa Rafi
+with
+<a href="https://sites.google.com/view/jay-rafi/home?authuser=0" target="_blank" rel="noopener noreferrer" class="coauthor">Jaysa Rafi</a>
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <figure>
