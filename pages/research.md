@@ -8,14 +8,14 @@ mathjax: true
 ---
 **Health Screening and Selection: Evidence from Biennial Subsidies in South Korea**
 
-Public health screening programs are widely used, but their effectiveness is questioned due to low participation among high-risk individuals who would benefit most from early diagnosis. I study selection into health screenings and their causal effects using quasi-random variation from South Korea’s National Health Screening Program, which subsidizes 90-100% of screening costs every other year at even-numbered ages. Using survey data, I find that subsidy eligibility increases screening completion by 16-19 percentage points (183-295%). Compliers with the subsidies are predominantly from lower socioeconomic backgrounds and are in poorer health than those who always participate regardless of subsidies. Using national health insurance claims data, I find that subsidy eligibility increases both early- and late-stage cancer diagnoses by 17-19%, as well as treatment for conditions including cancer precursors, hypertension, diabetes, high cholesterol, and osteoporosis. These results suggest that public health screenings with subsidies can effectively target high-risk individuals and promote preventive care use.
+Public health screening programs are widely used, but their impact is often limited by low participation among high-risk individuals who stand to benefit most from early diagnosis. I study selection into health screenings and their causal effects using quasi-random variation from South Korea’s National Health Screening Program, which subsidizes 90--100\% of screening costs every other year at even-numbered ages. Using survey data, I find that subsidy eligibility increases screening completion by 16--19 percentage points (183--295\%). Compliers with the subsidies are predominantly from lower socioeconomic backgrounds and are in poorer health than those who always participate regardless of subsidies. Using national health insurance claims data, I find that subsidy eligibility increases both early- and late-stage cancer diagnoses by 17--19\%, as well as treatments for conditions including cancer precursors, hypertension, diabetes, high cholesterol, and osteoporosis. These results demonstrate that subsidies can effectively target high-risk individuals and strengthen the impact of public health screening programs.
 
 <figure>
-  <img src="/images/cancer_stomach.png" alt="My graph" width="400">
+  <img src="/images/cancer_stomach.png" alt="Stomach cancer screening rate in South Korea" width="600">
   <figcaption>Stomach cancer screening rate in South Korea</figcaption>
+  [**Manuscript**]({% link /papers/biennial_paper_original.pdf %})  &#x7c;  [**Slides**]({% link /slides/Biannual_health_screening.pdf %})
 </figure>
 
- [**Manuscript**]({% link /papers/biennial_paper_original.pdf %})  &#x7c;  [**Slides**]({% link /slides/Biannual_health_screening.pdf %})
 
 
 <p>&nbsp;</p>
