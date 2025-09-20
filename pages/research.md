@@ -15,7 +15,7 @@ Public health screening programs are widely used, but their impact is often limi
     <img src="/images/cancer_stomach.png" alt="Stomach cancer screening rate in South Korea" width="600">
   </figure>
   <div>
-  <p><b>Fig: Stomach cancer screening rate</b></p>
+  <p><Fig: Stomach cancer screening rate></p>
   <p><a href="/papers/biennial_paper_original.pdf" target="_blank" rel="noopener noreferrer"><b>[Manuscript]</b></a></p>
   <p><a href="/slides/Biannual_health_screening.pdf" target="_blank" rel="noopener noreferrer"><b>[Slides]</b></a></p>
   </div>
@@ -39,7 +39,7 @@ This study investigates spousal spillover in health screenings using South Korea
     <img src="/images/spouse_any.png" alt="Health screening rate by spouse's age" width="600">
   </figure>
   <div>
-  <p><b>Fig: Screening rate by own and spouse's age</b></p>
+  <p><Fig: Screening rate by own and spouse's age></p>
   </div>
 </div>
 
