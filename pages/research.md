@@ -16,8 +16,8 @@ Public health screening programs are widely used, but their impact is often limi
     <figcaption>Stomach cancer screening rate in South Korea</figcaption>
   </figure>
   <div>
-  <p><a href="/papers/biennial_paper_original.pdf" target="_blank" rel="noopener noreferrer"><b>Manuscript</b></a></p>
-  <p><a href="/slides/Biannual_health_screening.pdf" target="_blank" rel="noopener noreferrer"><b>Slides</b></a></p>
+  <p><a href="/papers/biennial_paper_original.pdf" target="_blank" rel="noopener noreferrer"><b>[Manuscript]</b></a></p>
+  <p><a href="/slides/Biannual_health_screening.pdf" target="_blank" rel="noopener noreferrer"><b>[Slides]</b></a></p>
   </div>
 </div>
 
