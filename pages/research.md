@@ -54,9 +54,9 @@ This study aims to analyze the behavioral consequences of people's beliefs in co
 <div style="display: flex; align-items: center; gap: 20px;">
   <figure>
     <img src="/images/misinfo_q_std.png" alt="Correlations between belief in misinformation, risk preference, and education" width="600">
+    <figcaption>Fig: Correlations between belief in misinformation, risk preference, and education</figcaption>
   </figure>
   <div>
-  <p><b>Fig: Correlations between belief in misinformation, risk preference, and education</b></p>
   </div>
 </div>
 
@@ -99,8 +99,8 @@ with Jaysa Rafi
 <div style="display: flex; align-items: center; gap: 20px;">
   <figure>
     <img src="/images/edu_first_distribution.png" alt="Effect of school construction on educational attainment" width="600">
+    <figcaption>Fig: Effect of primary school construction on educational attainment</figcaption>
   </figure>
   <div>
-  <p><b>Fig: Effect of primary school construction on educational attainment</b></p>
   </div>
 </div>
