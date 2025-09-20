@@ -34,7 +34,7 @@ Public health screening programs are widely used, but their impact is often limi
 
 # Working papers
 ---
-**Spousal Spillover in Health Screening: Evidence from South Korea**
+**Spousal Spillover in Health Screening: Evidence from National Health Screening Program in South Korea**
 
 with
 <a href="https://sites.google.com/site/hk2405/" target="_blank" rel="noopener noreferrer" class="coauthor">Hyuncheol Bryant Kim</a>
