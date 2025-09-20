@@ -8,14 +8,14 @@ mathjax: true
 ---
 **Health Screening and Selection: Evidence from Biennial Subsidies in South Korea**
 
-Public health screening programs are widely used, but their impact is often limited by low participation among high-risk individuals who stand to benefit most from early diagnosis. I study selection into health screenings and their causal effects using quasi-random variation from South Korea’s National Health Screening Program, which subsidizes 90--100\% of screening costs every other year at even-numbered ages. Using survey data, I find that subsidy eligibility increases screening completion by 16--19 percentage points (183--295\%). Compliers with the subsidies are predominantly from lower socioeconomic backgrounds and are in poorer health than those who always participate regardless of subsidies. Using national health insurance claims data, I find that subsidy eligibility increases both early- and late-stage cancer diagnoses by 17--19\%, as well as treatments for conditions including cancer precursors, hypertension, diabetes, high cholesterol, and osteoporosis. These results demonstrate that subsidies can effectively target high-risk individuals and strengthen the impact of public health screening programs.
+Public health screening programs are widely used, but their impact is often limited by low participation among high-risk individuals who stand to benefit most from early diagnosis. I study selection into health screenings and their causal effects using quasi-random variation from South Korea’s National Health Screening Program, which subsidizes 90--100% of screening costs every other year at even-numbered ages. Using survey data, I find that subsidy eligibility increases screening completion by 16--19 percentage points (183--295%). Compliers with the subsidies are predominantly from lower socioeconomic backgrounds and are in poorer health than those who always participate regardless of subsidies. Using national health insurance claims data, I find that subsidy eligibility increases both early- and late-stage cancer diagnoses by 17--19%, as well as treatments for conditions including cancer precursors, hypertension, diabetes, high cholesterol, and osteoporosis. These results demonstrate that subsidies can effectively target high-risk individuals and strengthen the impact of public health screening programs.
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <figure>
     <img src="/images/cancer_stomach.png" alt="Stomach cancer screening rate in South Korea" width="600">
   </figure>
   <div>
-  <p>Fig: Stomach cancer screening rate in South Korea</p>
+  <p><b>Fig: Stomach cancer screening rate</b></p>
   <p><a href="/papers/biennial_paper_original.pdf" target="_blank" rel="noopener noreferrer"><b>[Manuscript]</b></a></p>
   <p><a href="/slides/Biannual_health_screening.pdf" target="_blank" rel="noopener noreferrer"><b>[Slides]</b></a></p>
   </div>
@@ -39,7 +39,7 @@ This study investigates spousal spillover in health screenings using South Korea
     <img src="/images/spouse_any.png" alt="Health screening rate by spouse's age" width="600">
   </figure>
   <div>
-  <p>Fig: Health screening rate by one's own and spouse's age</p>
+  <p><b>Fig: Screening rate by own and spouse's age</b></p>
   </div>
 </div>
 
@@ -56,7 +56,7 @@ This study aims to analyze the behavioral consequences of people's beliefs in co
     <img src="/images/misinfo_q_std.png" alt="Correlations between belief in misinformation, risk preference, and education" width="600">
   </figure>
   <div>
-  <p>Fig: Correlations between belief in misinformation, risk preference, and education</p>
+  <p><b>Fig: Correlations between belief in misinformation, risk preference, and education</b></p>
   </div>
 </div>
 
@@ -101,6 +101,6 @@ with Jaysa Rafi
     <img src="/images/edu_first_distribution.png" alt="Effect of school construction on educational attainment" width="600">
   </figure>
   <div>
-  <p>Fig: Effect of school construction on educational attainment</p>
+  <p><b>Fig: Effect of primary school construction on educational attainment</b></p>
   </div>
 </div>
