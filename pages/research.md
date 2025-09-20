@@ -13,7 +13,7 @@ Public health screening programs are widely used, but their impact is often limi
 <div style="display: flex; align-items: center; gap: 20px;">
   <figure>
     <img src="/images/cancer_stomach.png" alt="Stomach cancer screening rate in South Korea" width="600">
-    <figcaption>Stomach cancer screening rate in South Korea</figcaption>
+    <figcaption>Fig: Stomach cancer screening rate in South Korea</figcaption>
   </figure>
   <div>
   <p><a href="/papers/biennial_paper_original.pdf" target="_blank" rel="noopener noreferrer"><b>[Manuscript]</b></a></p>
@@ -34,6 +34,15 @@ with Hyuncheol Bryant Kim and Jaehyun Jung
 
 This study investigates spousal spillover in health screenings using South Korea’s National Health Screening Program, which subsidizes 90–100% of screening costs biennially at even-numbered ages. Using spouse’s even age as an instrument, we estimate that a spouse’s screening increases one’s own participation by 7.9 percentage points, 37% of the direct subsidy effect. Evidence points to coordination as a key mechanism, as many couples undergo screening on the same day. We also find contrasting patterns of selection by own subsidy eligibility. Among subsidy-eligible individuals, those with low socioeconomic status (SES) are more likely to respond to their spouse’s screening, while among ineligible individuals, spillovers are concentrated among those with high SES. These results suggest that spousal spillover can be used to increase participation and reduce socioeconomic disparities in preventive care.
 
+<div style="display: flex; align-items: center; gap: 20px;">
+  <figure>
+    <img src="/images/spouse_any.png" alt="Health screening rate by spouse's age" width="600">
+    <figcaption>Fig: Health screening rate by spouse's age</figcaption>
+  </figure>
+  <div>
+  </div>
+</div>
+
 <p>&nbsp;</p>
 
 **Misinformation Belief, Health Behavior, and Labor Supply during the COVID-19 Pandemic: Evidence from Tricycle Drivers in Philippines**
@@ -41,6 +50,15 @@ This study investigates spousal spillover in health screenings using South Korea
 with Hyuncheol Bryant Kim, Syngjoo Choi, Yasuyuki Sawada, and Takashi Yamano
 
 This study aims to analyze the behavioral consequences of people's beliefs in conspiracy theories and misinformation surrounding COVID-19 vaccines. We employ unique panel data to examine the relationship of belief in misinformation, vaccination behavior, and labor supply of tricycle drivers in the Philippines. We find that individuals with higher risk preference are more likely to hold misinformed beliefs. These beliefs, in turn, are associated with reductions in vaccination and other preventive health behaviors. We also find that beliefs in misinformation delay workplace recovery.
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <figure>
+    <img src="/images/misinfo_q_std.png" alt="Correlations between belief in misinformation, risk preference, and education" width="600">
+    <figcaption>Fig: Correlations between belief in misinformation, risk preference, and education</figcaption>
+  </figure>
+  <div>
+  </div>
+</div>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -77,3 +95,12 @@ with Takshi Yamano, Yasuyuki Sawada, Shigehiro Shinozaki, Hyuncheol Bryant Kim, 
 **Intergenerational impact of education on health behaviors: Evidence from mass school construction in Indonesia**
 
 with Jaysa Rafi
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <figure>
+    <img src="/images/vaccine_distribution.png" alt="Effect of school construction on infant vaccinations" width="600">
+    <figcaption>Fig: Effect of school construction on infant vaccinations</figcaption>
+  </figure>
+  <div>
+  </div>
+</div>
