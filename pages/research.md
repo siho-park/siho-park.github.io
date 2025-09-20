@@ -13,9 +13,9 @@ Public health screening programs are widely used, but their impact is often limi
 <div style="display: flex; align-items: center; gap: 20px;">
   <figure>
     <img src="/images/cancer_stomach.png" alt="Stomach cancer screening rate in South Korea" width="600">
-    <figcaption>Fig: Stomach cancer screening rate in South Korea</figcaption>
   </figure>
   <div>
+  <p>Fig: Stomach cancer screening rate in South Korea</p>
   <p><a href="/papers/biennial_paper_original.pdf" target="_blank" rel="noopener noreferrer"><b>[Manuscript]</b></a></p>
   <p><a href="/slides/Biannual_health_screening.pdf" target="_blank" rel="noopener noreferrer"><b>[Slides]</b></a></p>
   </div>
@@ -37,9 +37,9 @@ This study investigates spousal spillover in health screenings using South Korea
 <div style="display: flex; align-items: center; gap: 20px;">
   <figure>
     <img src="/images/spouse_any.png" alt="Health screening rate by spouse's age" width="600">
-    <figcaption>Fig: Health screening rate by spouse's age</figcaption>
   </figure>
   <div>
+  <p>Fig: Health screening rate by one's own and spouse's age</p>
   </div>
 </div>
 
@@ -54,9 +54,9 @@ This study aims to analyze the behavioral consequences of people's beliefs in co
 <div style="display: flex; align-items: center; gap: 20px;">
   <figure>
     <img src="/images/misinfo_q_std.png" alt="Correlations between belief in misinformation, risk preference, and education" width="600">
-    <figcaption>Fig: Correlations between belief in misinformation, risk preference, and education</figcaption>
   </figure>
   <div>
+  <p>Fig: Correlations between belief in misinformation, risk preference, and education</p>
   </div>
 </div>
 
@@ -98,9 +98,9 @@ with Jaysa Rafi
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <figure>
-    <img src="/images/vaccine_distribution.png" alt="Effect of school construction on infant vaccinations" width="600">
-    <figcaption>Fig: Effect of school construction on infant vaccinations</figcaption>
+    <img src="/images/edu_first_distribution.png" alt="Effect of school construction on educational attainment" width="600">
   </figure>
   <div>
+  <p>Fig: Effect of school construction on educational attainment</p>
   </div>
 </div>
