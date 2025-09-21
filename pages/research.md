@@ -117,7 +117,7 @@ and
 
 # Work in progress
 ---
-**Intergenerational impact of education on health behaviors: Evidence from mass school construction in Indonesia**
+**When Gender Norms Shape the Returns to Education: Evidence from Health Behaviors in Indonesia**
 
 with
 <a href="https://sites.google.com/view/jay-rafi/home?authuser=0" target="_blank" rel="noopener noreferrer" class="coauthor">Jaysa Rafi</a>
