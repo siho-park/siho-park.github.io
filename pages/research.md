@@ -42,7 +42,7 @@ and
 <a href="https://sites.google.com/site/jaehyunjungsite/home" target="_blank" rel="noopener noreferrer" class="coauthor">Jaehyun Jung</a>
 
 
-This study investigates spousal spillover in health screenings using South Korea’s National Health Screening Program, which subsidizes 90–100% of screening costs biennially at even-numbered ages. Using spouse’s even age as an instrument, we estimate that a spouse’s screening increases one’s own participation by 7.9 percentage points, 37% of the direct subsidy effect. Evidence points to coordination as a key mechanism, as many couples undergo screening on the same day. We also find contrasting patterns of selection by own subsidy eligibility. Among subsidy-eligible individuals, those with low socioeconomic status (SES) are more likely to respond to their spouse’s screening, while among ineligible individuals, spillovers are concentrated among those with high SES. These results suggest that spousal spillover can be used to increase participation and reduce socioeconomic disparities in preventive care.
+This study investigates spousal spillover in health screenings using South Korea’s National Health Screening Program, which subsidizes 90–100% of screening costs biennially at even-numbered ages. Using spouse’s even age as an instrument, we estimate that a spouse’s screening increases one’s own participation by 7.9 percentage points, 37% of the direct subsidy effect. Evidence points to coordination as a key mechanism, as many couples undergo screening on the same day. We also find contrasting patterns of selection by own subsidy eligibility. Among subsidy-eligible individuals, those with low socioeconomic status (SES) are more likely to respond to their spouse’s screening, while among ineligible individuals, spillovers are concentrated among those with high SES. These results suggest that spousal spillovers can be used to increase participation and reduce socioeconomic disparities in preventive care.
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <figure>
@@ -62,7 +62,7 @@ with
 <a href="https://sites.google.com/site/syngjoochoi/" target="_blank" rel="noopener noreferrer" class="coauthor">Syngjoo Choi</a>,
 <a href="https://sites.google.com/site/yasuyukisawadapage/main" target="_blank" rel="noopener noreferrer" class="coauthor">Yasuyuki Sawada</a>,
 and
-<a href="https://blogs.adb.org/author/takashi-yamano" target="_blank" rel="noopener noreferrer" class="coauthor">Takashi Yamano</a>,
+<a href="https://blogs.adb.org/author/takashi-yamano" target="_blank" rel="noopener noreferrer" class="coauthor">Takashi Yamano</a>
 
 This study aims to analyze the behavioral consequences of people's beliefs in conspiracy theories and misinformation surrounding COVID-19 vaccines. We employ unique panel data to examine the relationship of belief in misinformation, vaccination behavior, and labor supply of tricycle drivers in the Philippines. We find that individuals with higher risk preference are more likely to hold misinformed beliefs. These beliefs, in turn, are associated with reductions in vaccination and other preventive health behaviors. We also find that beliefs in misinformation delay workplace recovery.
 
@@ -87,7 +87,7 @@ This study aims to analyze the behavioral consequences of people's beliefs in co
 with
 <a href="https://julianreif.com/" target="_blank" rel="noopener noreferrer" class="coauthor">Julian Reif</a>
 and
-<a href="https://schaeffer.usc.edu/people/hanke-heun-johnson-phd/" target="_blank" rel="noopener noreferrer" class="coauthor">Hanke Heun-Johnson</a> ,
+<a href="https://schaeffer.usc.edu/people/hanke-heun-johnson-phd/" target="_blank" rel="noopener noreferrer" class="coauthor">Hanke Heun-Johnson</a>
 
 <span style = "color: rgb(151, 27, 0)"><i>IGPA Policy Spotlight</i></span>, 2023
 
@@ -124,8 +124,8 @@ with
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <figure>
-    <img src="/images/edu_first_distribution.png" alt="Effect of school construction on educational attainment" width="600">
-    <figcaption>Fig: Effect of primary school construction on educational attainment</figcaption>
+    <img src="/images/vaccine_distribution.png" alt="Effect of school construction on infant vaccinations" width="600">
+    <figcaption>Fig: Effect of primary school construction on infant vaccinations</figcaption>
   </figure>
   <div>
   </div>

@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", url: "https://siho-park.github.io/"}
-  - {title: "CV", url: "/cv/SihoPark.pdf" }
+  - {title: "CV", url: "/cv/cv_SihoPark.pdf" }
   - {title: "Research",  url: "https://siho-park.github.io/pages/research/"}
   - {title: "Resources", url: "https://siho-park.github.io/pages/resources/"}
 
