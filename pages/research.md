@@ -56,6 +56,24 @@ This study investigates spousal spillover in health screenings using South Korea
 
 <p>&nbsp;</p>
 
+**When Gender Norms Shape the Returns to Education: Evidence from Health Behaviors in Indonesia**
+
+with
+<a href="https://sites.google.com/view/jay-rafi/home?authuser=0" target="_blank" rel="noopener noreferrer" class="coauthor">Jaysa Rafi</a>
+
+Education is widely used as a tool for improving health, but its returns depend on cultural and gender norms. This paper examines Indonesia’s primary school construction program and its long-term effects on education and health behaviors. Using geographic and cohort variation in school exposure, we find that the program increased primary school completion for both genders, but downstream outcomes diverged. For women, higher schooling declined, likely due to household budget constraints and son preference, while men were unaffected. Women exposed to the program were less likely to smoke, whereas men’s smoking, associated with social status and masculinity, did not change. Those exposed to the program were more likely to vaccinate their high-parity sons, but not daughters, consistent with stronger son preference for later-born children. These results show that education policies can yield unequal health returns when social norms shape how education translates into behaviors.
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <figure>
+    <img src="/images/vaccine_distribution.png" alt="Effect of school construction on infant vaccinations" width="600">
+    <figcaption>Fig: Effect of primary school construction on infant vaccinations</figcaption>
+  </figure>
+  <div>
+  </div>
+</div>
+
+<p>&nbsp;</p>
+
 **Misinformation Belief, Health Behavior, and Labor Supply during the COVID-19 Pandemic: Evidence from Tricycle Drivers in Philippines**
 
 with
@@ -118,16 +136,8 @@ and
 
 # Work in progress
 ---
-**When Gender Norms Shape the Returns to Education: Evidence from Health Behaviors in Indonesia**
+**The Cost of False Alarms: Evidence from Cancer Screening in South Korea**
 
-with
-<a href="https://sites.google.com/view/jay-rafi/home?authuser=0" target="_blank" rel="noopener noreferrer" class="coauthor">Jaysa Rafi</a>
+<p>&nbsp;</p>
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <figure>
-    <img src="/images/vaccine_distribution.png" alt="Effect of school construction on infant vaccinations" width="600">
-    <figcaption>Fig: Effect of primary school construction on infant vaccinations</figcaption>
-  </figure>
-  <div>
-  </div>
-</div>
+**What Drives Cancer Screening Use? Evidence from Migration**
