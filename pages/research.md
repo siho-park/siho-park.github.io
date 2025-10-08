@@ -24,7 +24,7 @@ Public health screening programs are widely used, but their impact is often limi
   </figure>
   <div>
   <p><a href="/papers/biennial_paper_original.pdf" target="_blank" rel="noopener noreferrer" class="paper"><b>[Manuscript]</b></a></p>
-  <p><a href="/slides/biennial_presentation_JobTalk.pdf" target="_blank" rel="noopener noreferrer" class="paper"><b>[Slides]</b></a></p>
+  <p><a href="/slides/biennial_presentation_JobTalk.pdf" target="_blank" rel="noopener noreferrer" class="paper"><b>[Slide]</b></a></p>
   </div>
 </div>
 
