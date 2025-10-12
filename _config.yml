@@ -26,7 +26,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:sihohp2@illinois.edu"}
   - {title: Github, icon: github, url: "https://github.com/siho-park"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/SihoPark1"}
-  - {title: LinkedIn, icon: linkedin-square, url: "https://www.linkedin.com/in/siho-park-a512b0383/"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/siho-park-a512b0383/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
