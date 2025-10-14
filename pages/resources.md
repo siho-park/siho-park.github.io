@@ -11,6 +11,14 @@ title: ""
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+# Coding guide
+---
+[**Stata coding guide**](https://julianreif.com/guide/) (Julian Reif)
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 # Economics
 ---
 [**AEA Continuing Education**](https://www.aeaweb.org/conference/cont-ed)
@@ -28,14 +36,6 @@ title: ""
 [**Recent developments in DID collections**](https://asjadnaqvi.github.io/DiD/) (Asjad Naqvi)
 
 [**Callaway and Sant'Anna estimator**](https://bcallaway11.github.io/did/index.html) (Brantly Callaway and Pedro H.C. Sant'Anna)
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-# Coding guide
----
-[**Stata coding guide**](https://julianreif.com/guide/) (Julian Reif)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
