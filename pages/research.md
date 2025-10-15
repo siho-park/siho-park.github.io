@@ -15,7 +15,7 @@ mathjax: true
 **Health Screening and Selection: Evidence from Biennial Subsidies in South Korea**
 
 <a href="/papers/biennial_paper_original.pdf" target="_blank" rel="noopener noreferrer" class="paper"><b>[Manuscript]</b></a>
-| <a href="/slides/biennial_presentation_JobTalk.pdf" target="_blank" rel="noopener noreferrer" class="paper"><b>[Slides]</b></a>
+<a href="/slides/biennial_presentation_JobTalk.pdf" target="_blank" rel="noopener noreferrer" class="paper"><b>[Slides]</b></a>
 
 Public health screening programs are widely used, but their impact is often limited by low participation among high-risk individuals who stand to benefit most from early diagnosis. I study selection into health screenings and their causal effects using quasi-random variation from South Korea’s National Health Screening Program, which subsidizes 90-100% of screening costs every other year at even-numbered ages. Using nationally representative survey data, I find that subsidy eligibility increases screening completion by 16-19 percentage points (183-295%). Compliers with the subsidies are predominantly from lower socioeconomic backgrounds and are in poorer health than those who always participate regardless of subsidies. Using national health insurance claims data, I find that subsidy eligibility increases both in-situ and invasive cancer diagnoses by 17-19%, as well as treatments for conditions including cancer precursors, hypertension, diabetes, high cholesterol, and osteoporosis. These results demonstrate that subsidies can effectively target high-risk individuals and strengthen the impact of public health screening programs.
 
@@ -41,6 +41,7 @@ with
 and
 <a href="https://sites.google.com/site/jaehyunjungsite/home" target="_blank" rel="noopener noreferrer" class="coauthor">Jaehyun Jung</a>
 
+<a href="/papers/Spousal_spillover_in_health_screening_manuscript.pdf" target="_blank" rel="noopener noreferrer" class="paper"><b>[Manuscript]</b></a>
 
 Social interactions can strongly shape preventive health behaviors, but little is known about how they shape participation in formal health screening programs. This study investigates spousal spillovers in screening participation using South Korea’s National Health Screening Program, which subsidizes 90–100% of screening costs biennially at even-numbered ages. Exploiting the spouse’s even age as an instrument, we estimate that a spouse’s screening increases one’s own participation by 7.9 percentage points, equivalent to 37% of the direct subsidy effect. Spillovers primarily run from wives to husbands, and evidence points to coordination as a key mechanism, as many couples undergo screening on the same day. These findings highlight the importance of household dynamics in preventive care and suggest that policies engaging families jointly could substantially enhance the effectiveness of public health screening programs.
 
@@ -81,6 +82,8 @@ with
 <a href="https://sites.google.com/site/yasuyukisawadapage/main" target="_blank" rel="noopener noreferrer" class="coauthor">Yasuyuki Sawada</a>,
 and
 <a href="https://blogs.adb.org/author/takashi-yamano" target="_blank" rel="noopener noreferrer" class="coauthor">Takashi Yamano</a>
+
+<a href="/papers/Misinformation_beliefs_revised_09242025.pdf" target="_blank" rel="noopener noreferrer" class="paper"><b>[Manuscript]</b></a>
 
 This study aims to analyze the behavioral consequences of people's beliefs in conspiracy theories and misinformation surrounding COVID-19 vaccines. We employ unique panel data to examine the relationship of belief in misinformation, vaccination behavior, and labor supply of tricycle drivers in the Philippines. We find that individuals with higher risk preference are more likely to hold misinformed beliefs. These beliefs, in turn, are associated with reductions in vaccination and other preventive health behaviors. We also find that beliefs in misinformation delay workplace recovery.
 
