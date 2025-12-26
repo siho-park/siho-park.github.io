@@ -75,10 +75,11 @@ Education is widely used as a tool for improving health, but its returns depend 
 <p>&nbsp;</p>
 
 **Misinformation Belief, Health Behavior, and Labor Supply during the COVID-19 Pandemic: Evidence from Tricycle Drivers in Philippines**
+(Forthcoming at the <span style = "color: rgb(151, 27, 0)"><i>Journal of Behavioral and Experimental Economics</i></span>)
 
 with
-<a href="https://sites.google.com/site/hk2405/" target="_blank" rel="noopener noreferrer" class="coauthor">Hyuncheol Bryant Kim</a>,
 <a href="https://sites.google.com/site/syngjoochoi/" target="_blank" rel="noopener noreferrer" class="coauthor">Syngjoo Choi</a>,
+<a href="https://sites.google.com/site/hk2405/" target="_blank" rel="noopener noreferrer" class="coauthor">Hyuncheol Bryant Kim</a>,
 <a href="https://sites.google.com/site/yasuyukisawadapage/main" target="_blank" rel="noopener noreferrer" class="coauthor">Yasuyuki Sawada</a>,
 and
 <a href="https://blogs.adb.org/author/takashi-yamano" target="_blank" rel="noopener noreferrer" class="coauthor">Takashi Yamano</a>
