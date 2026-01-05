@@ -84,7 +84,8 @@ with
 and
 <a href="https://blogs.adb.org/author/takashi-yamano" target="_blank" rel="noopener noreferrer" class="coauthor">Takashi Yamano</a>
 
-<a href="/papers/Misinformation_beliefs_revised_09242025.pdf" target="_blank" rel="noopener noreferrer" class="paper"><b>[Manuscript]</b></a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S2214804325001727" target="_blank" rel="noopener noreferrer" class="paper"><b>[Article]</b></a>
+<a href="/papers/Misinformation_beliefs_revised_11182025_final.pdf" target="_blank" rel="noopener noreferrer" class="paper"><b>[Manuscript]</b></a>
 
 This study aims to analyze the behavioral consequences of people's beliefs in conspiracy theories and misinformation surrounding COVID-19 vaccines. We employ unique panel data to examine the relationship of belief in misinformation, vaccination behavior, and labor supply of tricycle drivers in the Philippines. We find that individuals with higher risk preference are more likely to hold misinformed beliefs. These beliefs, in turn, are associated with reductions in vaccination and other preventive health behaviors. We also find that beliefs in misinformation delay workplace recovery.
 
