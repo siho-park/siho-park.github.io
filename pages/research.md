@@ -10,10 +10,10 @@ mathjax: true
 </style>
 
 
-# Published papers
+# Publications
 ---
 **Misinformation Belief, Health Behavior, and Labor Supply during the COVID-19 Pandemic: Evidence from Tricycle Drivers in Philippines**
-(Forthcoming at the <span style = "color: rgb(151, 27, 0)"><i>Journal of Behavioral and Experimental Economics</i></span>)
+(<span style = "color: rgb(151, 27, 0)"><i>Journal of Behavioral and Experimental Economics</i></span>, 2026)
 
 with
 <a href="https://sites.google.com/site/syngjoochoi/" target="_blank" rel="noopener noreferrer" class="coauthor">Syngjoo Choi</a>,
@@ -22,8 +22,11 @@ with
 and
 <a href="https://blogs.adb.org/author/takashi-yamano" target="_blank" rel="noopener noreferrer" class="coauthor">Takashi Yamano</a>
 
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S2214804325001727" target="_blank" rel="noopener noreferrer" class="paper"><b>[Article]</b></a>
-<a href="/papers/Misinformation_beliefs_revised_11182025_final.pdf" target="_blank" rel="noopener noreferrer" class="paper"><b>[Manuscript]</b></a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S2214804325001727" target="_blank" rel="noopener noreferrer" class="paper"><b>Article</b></a>
+|
+<a href="/papers/Misinformation_beliefs_revised_11182025_final.pdf" target="_blank" rel="noopener noreferrer" class="paper"><b>Manuscript</b></a>
+|
+<a href="https://github.com/siho-park/misinfo_health" target="_blank" rel="noopener noreferrer" class="paper"><b>Data and code</b></a>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
