@@ -39,6 +39,14 @@ and
 
 <p>&nbsp;</p>
 
+**Beyond Primary Completion: Unintended Consequences of School Expansion in Indonesia**
+
+with
+<a href="https://sites.google.com/view/jay-rafi/home?authuser=0" target="_blank" rel="noopener noreferrer" class="coauthor">Jay Rafi</a>
+
+<p>&nbsp;</p>
+
+
 **Spousal Spillover in Health Screening: Evidence from National Health Screening Program in South Korea**
 
 with
@@ -46,12 +54,6 @@ with
 and
 <a href="https://sites.google.com/site/jaehyunjungsite/home" target="_blank" rel="noopener noreferrer" class="coauthor">Jaehyun Jung</a>
 
-<p>&nbsp;</p>
-
-**Beyond Primary Completion: Unintended Consequences of School Expansion in Indonesia**
-
-with
-<a href="https://sites.google.com/view/jay-rafi/home?authuser=0" target="_blank" rel="noopener noreferrer" class="coauthor">Jaysa Rafi</a>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
