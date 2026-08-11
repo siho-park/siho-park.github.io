@@ -37,9 +37,6 @@ and
 ---
 **Health Screening and Selection: Evidence from Biennial Subsidies in South Korea**
 
-<a href="/papers/biennial_paper_original.pdf" target="_blank" rel="noopener noreferrer" class="paper"><b>[Manuscript]</b></a>
-<a href="/slides/biennial_presentation_JobTalk.pdf" target="_blank" rel="noopener noreferrer" class="paper"><b>[Slides]</b></a>
-
 <p>&nbsp;</p>
 
 **Spousal Spillover in Health Screening: Evidence from National Health Screening Program in South Korea**
@@ -49,11 +46,9 @@ with
 and
 <a href="https://sites.google.com/site/jaehyunjungsite/home" target="_blank" rel="noopener noreferrer" class="coauthor">Jaehyun Jung</a>
 
-<a href="/papers/Spousal_spillover_in_health_screening_manuscript.pdf" target="_blank" rel="noopener noreferrer" class="paper"><b>[Manuscript]</b></a>
-
 <p>&nbsp;</p>
 
-**When Gender Norms Shape the Returns to Education: Evidence from Health Behaviors in Indonesia**
+**Beyond Primary Completion: Unintended Consequences of School Expansion in Indonesia**
 
 with
 <a href="https://sites.google.com/view/jay-rafi/home?authuser=0" target="_blank" rel="noopener noreferrer" class="coauthor">Jaysa Rafi</a>
@@ -103,10 +98,3 @@ and
 **The Cost of False Alarms: Evidence from Cancer Screening in South Korea**
 
 <p>&nbsp;</p>
-
-**What Drives Cancer Screening Use? Evidence from Migration**
-
-with
-<a href="https://julianreif.com/" target="_blank" rel="noopener noreferrer" class="coauthor">Julian Reif</a>
-and
-<a href="https://deryugina.com/" target="_blank" rel="noopener noreferrer" class="coauthor">Tatyana Deryugina</a>
