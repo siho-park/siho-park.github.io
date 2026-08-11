@@ -3,6 +3,10 @@ layout: post
 title: ""
 ---
 
+{% include theme.html %}
+
+<div class="spark-page" markdown="1">
+
 # Datasets
 ---
 [**Health data in Korea**]({% link /slides/Korea_health.pdf %})
@@ -64,3 +68,5 @@ title: ""
 # Writing papers
 ---
 [**Four steps to an Applied Micro Paper**](https://scholar.harvard.edu/files/shapiro/files/foursteps.pdf) (Jesse M. Shapiro)
+
+</div>

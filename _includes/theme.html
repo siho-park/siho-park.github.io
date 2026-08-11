@@ -1,0 +1,98 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&display=swap');
+
+:root {
+  --paper: #EFF1EA;
+  --paper-raised: #E5E9DE;
+  --ink: #1E2B27;
+  --muted: #57655C;
+  --teal: #2E6B5E;
+  --teal-deep: #1F4B41;
+  --flag: #C1440E;
+  --line: #C7CEC1;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #16211D;
+    --paper-raised: #1C2A24;
+    --ink: #ECEFE7;
+    --muted: #9DAA9F;
+    --teal: #74C2AA;
+    --teal-deep: #9EDBC5;
+    --flag: #E2793E;
+    --line: #2C3B34;
+  }
+}
+
+/* shared page chrome — pulled in per-page via {% include theme.html %} */
+body > header,
+body > footer {
+  background: var(--paper) !important;
+  border-color: var(--line) !important;
+  transition: background .3s;
+}
+body > header .title,
+body > footer,
+body > header nav a {
+  color: var(--ink) !important;
+  font-family: 'Inter', sans-serif;
+}
+body > header nav a.selected,
+body > header nav a:hover {
+  color: var(--teal-deep) !important;
+}
+body > footer a:hover {
+  color: var(--flag) !important;
+}
+
+.spark-page {
+  font-family: 'Inter', -apple-system, 'Segoe UI', sans-serif;
+  color: var(--ink);
+}
+.spark-page *:focus-visible {
+  outline: 2px solid var(--flag);
+  outline-offset: 2px;
+}
+
+.spark-page h1 {
+  font-family: 'Newsreader', serif;
+  font-weight: 500;
+  font-size: clamp(1.6rem, 3.2vw, 2.2rem);
+  letter-spacing: -.01em;
+  margin: 1.8em 0 .2em;
+}
+.spark-page h1:first-of-type { margin-top: .1em; }
+
+.spark-page hr {
+  border: none;
+  border-top: 1px solid var(--line);
+  margin: .5em 0 1.5em;
+}
+
+.spark-page p {
+  text-align: left;
+  line-height: 1.7;
+}
+
+.spark-page strong { color: var(--ink); }
+
+.spark-page a {
+  color: var(--teal-deep);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.spark-page a:hover { border-bottom-color: var(--teal-deep); }
+
+.spark-page .coauthor { color: var(--muted); border-bottom: 1px solid transparent; }
+.spark-page .coauthor:hover { color: var(--teal-deep); border-bottom-color: var(--teal-deep); }
+
+.spark-page .paper {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: .82em;
+  letter-spacing: .01em;
+  color: var(--teal-deep);
+}
+.spark-page .paper:hover { color: var(--flag); border-bottom-color: var(--flag); }
+
+.spark-page .venue { color: var(--flag); }
+</style>

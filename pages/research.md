@@ -4,16 +4,14 @@ title: ""
 mathjax: true
 ---
 
-<style>
-  .coauthor { color: #1a73e8; }
-  .paper { color: #1a73e8; }
-</style>
+{% include theme.html %}
 
+<div class="spark-page" markdown="1">
 
 # Publications
 ---
 **Misinformation Belief, Health Behavior, and Labor Supply during the COVID-19 Pandemic: Evidence from Tricycle Drivers in Philippines**
-(<span style = "color: rgb(151, 27, 0)"><i>Journal of Behavioral and Experimental Economics</i></span>, 2026)
+(<span class="venue"><i>Journal of Behavioral and Experimental Economics</i></span>, 2026)
 
 with
 <a href="https://sites.google.com/site/syngjoochoi/" target="_blank" rel="noopener noreferrer" class="coauthor">Syngjoo Choi</a>,
@@ -69,7 +67,7 @@ with
 and
 <a href="https://schaeffer.usc.edu/people/hanke-heun-johnson-phd/" target="_blank" rel="noopener noreferrer" class="coauthor">Hanke Heun-Johnson</a>
 
-<span style = "color: rgb(151, 27, 0)"><i>IGPA Policy Spotlight</i></span>, 2023
+<span class="venue"><i>IGPA Policy Spotlight</i></span>, 2023
 
 <a href="/papers/covid_lyl.pdf" target="_blank" rel="noopener noreferrer" class="paper"><b>[Manuscript]</b></a>
 
@@ -86,7 +84,7 @@ and
 <a href="https://sites.google.com/site/syngjoochoi/" target="_blank" rel="noopener noreferrer" class="coauthor">Syngjoo Choi</a>
 
 
-<span style = "color: rgb(151, 27, 0)"><i>Informal Services in Asian Cities: Lessons for Urban Planning and Management from the Covid-19 Pandemic</i></span>, 2022
+<span class="venue"><i>Informal Services in Asian Cities: Lessons for Urban Planning and Management from the Covid-19 Pandemic</i></span>, 2022
 
 <a href="/papers/ph_tricycle_report.pdf" target="_blank" rel="noopener noreferrer" class="paper"><b>[Manuscript]</b></a>
 
@@ -100,3 +98,5 @@ and
 **The Cost of False Alarms: Evidence from Cancer Screening in South Korea**
 
 <p>&nbsp;</p>
+
+</div>
