@@ -1,19 +1,292 @@
 ---
 layout: post
-title: "Bio"
+title: ""
 ---
 
+<div class="spark-home">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&display=swap');
 
+.spark-home {
+  --paper: #EFF1EA;
+  --paper-raised: #E5E9DE;
+  --ink: #1E2B27;
+  --muted: #57655C;
+  --teal: #2E6B5E;
+  --teal-deep: #1F4B41;
+  --flag: #C1440E;
+  --line: #C7CEC1;
+  font-family: 'Inter', -apple-system, 'Segoe UI', sans-serif;
+  color: var(--ink);
+}
 
-<img src="/images/profile.jpg" alt="drawing" width="300" style="float: left; margin-right: 1em" >
+@media (prefers-color-scheme: dark) {
+  .spark-home {
+    --paper: #16211D;
+    --paper-raised: #1C2A24;
+    --ink: #ECEFE7;
+    --muted: #9DAA9F;
+    --teal: #74C2AA;
+    --teal-deep: #9EDBC5;
+    --flag: #E2793E;
+    --line: #2C3B34;
+  }
+}
 
-Welcome!
-<br/>
-<br/>
-I am an Assistant Professor at the <a href="https://www.kdischool.ac.kr/">KDI School of Public Policy and Management</a>.
-<br/>
-<br/>
-My research interests include health and public economics.
-<br/>
-<br/>
-<strong>Email</strong>: <a href="mailto:sihopark@kdischool.ac.kr">sihopark@kdischool.ac.kr</a>
+/* page chrome — only rendered on this page, so scoped by presence */
+body > header,
+body > footer {
+  background: var(--paper) !important;
+  border-color: var(--line) !important;
+  transition: background .3s;
+}
+body > header .title,
+body > footer,
+body > header nav a {
+  color: var(--ink) !important;
+  font-family: 'Inter', sans-serif;
+}
+body > header nav a.selected,
+body > header nav a:hover {
+  color: var(--teal-deep) !important;
+}
+body > footer a:hover {
+  color: var(--flag) !important;
+}
+
+.spark-home p { text-align: left; }
+.spark-home a { color: var(--teal-deep); text-decoration: none; }
+.spark-home a:hover { text-decoration: underline; }
+.spark-home img { border-radius: 0; }
+
+.spark-home *:focus-visible {
+  outline: 2px solid var(--flag);
+  outline-offset: 3px;
+}
+
+.eyebrow {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: .72rem;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--teal-deep);
+  margin: 0 0 1.1em;
+}
+
+.hero {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(200px, 260px) 1fr;
+  gap: 3rem;
+  align-items: start;
+  padding: 1rem 0 2.5rem;
+  overflow: hidden;
+}
+
+.hero-visual {
+  position: absolute;
+  inset: -2rem -2rem auto auto;
+  width: 62%;
+  max-width: 640px;
+  opacity: .5;
+  z-index: 0;
+  pointer-events: none;
+}
+@media (prefers-color-scheme: dark) {
+  .hero-visual { opacity: .38; }
+}
+
+.hero-photo-block,
+.hero-copy { position: relative; z-index: 1; }
+
+.hero-photo {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  border: 1px solid var(--line);
+  filter: grayscale(.15) contrast(1.02);
+  display: block;
+}
+
+.figure-cap {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: .68rem;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: .6em 0 0;
+}
+
+.hero-name {
+  font-family: 'Newsreader', serif;
+  font-weight: 500;
+  font-size: clamp(2.4rem, 5vw, 3.4rem);
+  line-height: 1.05;
+  margin: 0 0 .25em;
+  letter-spacing: -.01em;
+}
+.hero-name em {
+  font-style: italic;
+  color: var(--teal-deep);
+}
+
+.hero-role {
+  font-size: 1.05rem;
+  color: var(--muted);
+  margin: 0 0 1.4em;
+  line-height: 1.5;
+}
+
+.hero-bio {
+  max-width: 46em;
+  font-size: 1.02rem;
+  line-height: 1.7;
+  margin: 0 0 1.8em;
+}
+
+.panel-tags {
+  list-style: none;
+  margin: 0 0 2em;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: .6em;
+}
+.panel-tags li {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: .78rem;
+  letter-spacing: .01em;
+  border: 1px solid var(--line);
+  background: var(--paper-raised);
+  padding: .45em .8em;
+  display: flex;
+  align-items: center;
+  gap: .55em;
+  transition: border-color .2s, transform .2s;
+}
+.panel-tags li:hover {
+  border-color: var(--teal);
+  transform: translateY(-1px);
+}
+.panel-tags .dot {
+  width: .5em;
+  height: .5em;
+  border-radius: 50%;
+  background: var(--flag);
+  flex: none;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.4em;
+}
+.btn-primary {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: .92rem;
+  color: var(--paper) !important;
+  background: var(--teal-deep);
+  padding: .75em 1.3em;
+  border: 1px solid var(--teal-deep);
+  transition: background .2s, color .2s;
+}
+.btn-primary:hover {
+  background: var(--flag);
+  border-color: var(--flag);
+  text-decoration: none !important;
+}
+.contact-line {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: .85rem;
+  color: var(--muted);
+}
+.contact-line a { color: var(--muted); }
+.contact-line a:hover { color: var(--teal-deep); }
+
+.more-link {
+  display: inline-block;
+  margin-top: 2.2em;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: .82rem;
+  letter-spacing: .02em;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: .1em;
+}
+.more-link:hover { border-color: var(--teal); }
+
+@media (prefers-reduced-motion: no-preference) {
+  .hero-photo-block, .eyebrow, .hero-name, .hero-role, .hero-bio, .panel-tags, .hero-actions {
+    animation: rise .6s ease both;
+  }
+  .eyebrow { animation-delay: .02s }
+  .hero-name { animation-delay: .08s }
+  .hero-role { animation-delay: .14s }
+  .hero-bio { animation-delay: .2s }
+  .panel-tags { animation-delay: .26s }
+  .hero-actions { animation-delay: .32s }
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+}
+
+@media (max-width: 760px) {
+  .hero { grid-template-columns: 1fr; gap: 1.8rem; }
+  .hero-visual { display: none; }
+  .hero-photo { max-width: 220px; aspect-ratio: 1/1; }
+}
+</style>
+
+<section class="hero">
+  <svg class="hero-visual" viewBox="0 0 640 320" aria-hidden="true" focusable="false">
+    <line x1="340" y1="20" x2="340" y2="300" stroke="var(--muted)" stroke-width="1.5" stroke-dasharray="4 5" opacity=".55"/>
+    <text x="290" y="300" font-family="IBM Plex Mono, monospace" font-size="9" letter-spacing="1" fill="var(--muted)" text-anchor="end" opacity=".75">NOT SCREENED</text>
+    <text x="390" y="300" font-family="IBM Plex Mono, monospace" font-size="9" letter-spacing="1" fill="var(--muted)" text-anchor="start" opacity=".75">SCREENED</text>
+    <g fill="var(--teal)">
+      <circle cx="60" cy="255" r="4"/><circle cx="95" cy="238" r="3"/><circle cx="120" cy="262" r="4"/>
+      <circle cx="150" cy="245" r="3"/><circle cx="175" cy="270" r="4"/><circle cx="200" cy="250" r="3"/>
+      <circle cx="225" cy="235" r="4"/><circle cx="250" cy="258" r="3"/><circle cx="275" cy="242" r="4"/>
+      <circle cx="300" cy="265" r="3"/><circle cx="320" cy="248" r="4"/>
+      <circle cx="365" cy="150" r="4"/><circle cx="390" cy="120" r="3"/><circle cx="415" cy="140" r="4"/>
+      <circle cx="440" cy="105" r="3"/><circle cx="465" cy="130" r="4"/><circle cx="490" cy="95" r="3"/>
+      <circle cx="515" cy="115" r="4"/><circle cx="540" cy="88" r="3"/><circle cx="565" cy="108" r="4"/>
+      <circle cx="590" cy="98" r="3"/>
+    </g>
+    <circle cx="340" cy="182" r="5.5" fill="var(--flag)"/>
+  </svg>
+
+  <div class="hero-photo-block">
+    <img class="hero-photo" src="/images/profile.jpg" alt="Portrait of Siho Park outdoors">
+    <p class="figure-cap">Fig. 1 — Sejong, South Korea</p>
+  </div>
+
+  <div class="hero-copy">
+    <p class="eyebrow">Health &amp; Public Economics</p>
+    <h1 class="hero-name">Siho Park</h1>
+    <p class="hero-role">Assistant Professor of Economics<br>KDI School of Public Policy and Management</p>
+
+    <p class="hero-bio">
+      I study what happens when people are offered a screening test, a subsidy, or a piece of
+      information — and why so many decline, delay, or misread the signal. My research draws on
+      national health-screening records and field data from Korea, the Philippines, and Indonesia
+      to trace how beliefs and incentives shape health behavior, and who gets left out of
+      preventive care.
+    </p>
+
+    <ul class="panel-tags">
+      <li><span class="dot"></span>Health screening &amp; selection</li>
+      <li><span class="dot"></span>Health behavior &amp; misinformation</li>
+      <li><span class="dot"></span>Gender, education &amp; health</li>
+    </ul>
+
+    <div class="hero-actions">
+      <a class="btn-primary" href="/cv/cv_SihoPark.pdf">Download CV</a>
+      <span class="contact-line"><a href="mailto:sihopark@kdischool.ac.kr">sihopark@kdischool.ac.kr</a></span>
+    </div>
+
+    <a class="more-link" href="/pages/research/">Published &amp; working papers →</a>
+  </div>
+</section>
+</div>
