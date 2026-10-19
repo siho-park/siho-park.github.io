@@ -50,7 +50,7 @@ with
 with
 <a href="https://sites.google.com/site/hk2405/" target="_blank" rel="noopener noreferrer" class="coauthor">Hyuncheol Bryant Kim</a>
 and
-<a href="https://sites.google.com/site/jaehyunjungsite/home" target="_blank" rel="noopener noreferrer" class="coauthor">Jaehyun Jung</a>
+<a href="https://pure.ewha.ac.kr/en/persons/jaehyun-jung/" target="_blank" rel="noopener noreferrer" class="coauthor">Jaehyun Jung</a>
 
 
 <p>&nbsp;</p>
