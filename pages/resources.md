@@ -9,9 +9,9 @@ title: ""
 
 # Datasets
 ---
-[**NHIS Data Documentation**](https://siho-park.github.io/nhis-documentation/)
+[**Korea National Health Insurance Service (NHIS) Data Documentation**](https://siho-park.github.io/nhis-documentation/)
 
-[**Health data in Korea**]({% link /slides/Korea_health.pdf %})
+[**Health Data in Korea**]({% link /slides/Korea_health.pdf %})
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
