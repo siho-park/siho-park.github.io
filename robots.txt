@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://siho-park.github.io/nhis-documentation/sitemap.xml
+Sitemap: https://siho-park.github.io/kcure-documentation/sitemap.xml
